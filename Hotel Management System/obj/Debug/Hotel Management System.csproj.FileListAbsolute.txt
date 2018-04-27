@@ -1,0 +1,25 @@
+F:\Database Project\Hotel Management System\Hotel Management System\bin\Debug\Hotel Management System.exe.config
+F:\Database Project\Hotel Management System\Hotel Management System\bin\Debug\Hotel Management System.exe
+F:\Database Project\Hotel Management System\Hotel Management System\bin\Debug\Hotel Management System.pdb
+F:\Database Project\Hotel Management System\Hotel Management System\obj\Debug\Hotel Management System.csprojResolveAssemblyReference.cache
+F:\Database Project\Hotel Management System\Hotel Management System\obj\Debug\Hotel_Management_System.Properties.Resources.resources
+F:\Database Project\Hotel Management System\Hotel Management System\obj\Debug\Hotel Management System.csproj.GenerateResource.Cache
+F:\Database Project\Hotel Management System\Hotel Management System\obj\Debug\Hotel Management System.exe
+F:\Database Project\Hotel Management System\Hotel Management System\obj\Debug\Hotel Management System.pdb
+F:\Database Project\Hotel Management System\Hotel Management System\bin\Debug\Hotel Mangement System.mdf
+F:\Database Project\Hotel Management System\Hotel Management System\bin\Debug\Hotel Mangement System_log.ldf
+F:\Database Project\Hotel Management System\Hotel Management System\obj\Debug\Hotel_Management_System.GuestList.resources
+F:\Database Project\Hotel Management System\Hotel Management System\obj\Debug\Hotel_Management_System.NewGuest.resources
+F:\Database Project\Hotel Management System\Hotel Management System\obj\Debug\Hotel_Management_System.employeeForm.resources
+F:\Database Project\Hotel Management System\Hotel Management System\obj\Debug\Hotel_Management_System.ManagerForm.resources
+F:\Database Project\Hotel Management System\Hotel Management System\obj\Debug\Hotel_Management_System.RoomInfo.resources
+F:\Database Project\Hotel Management System\Hotel Management System\obj\Debug\Hotel_Management_System.Register.resources
+F:\Database Project\Hotel Management System\Hotel Management System\obj\Debug\Hotel_Management_System.RegisterEvent.resources
+F:\Database Project\Hotel Management System\Hotel Management System\obj\Debug\Hotel_Management_System.eventList.resources
+F:\Database Project\Hotel Management System\Hotel Management System\obj\Debug\Hotel_Management_System.roomStatus.resources
+F:\Database Project\Hotel Management System\Hotel Management System\obj\Debug\Hotel_Management_System.EmployeInfo.resources
+F:\Database Project\Hotel Management System\Hotel Management System\obj\Debug\global.resources
+F:\Database Project\Hotel Management System\Hotel Management System\bin\Debug\MySql.Data.DLL
+F:\Database Project\Hotel Management System\Hotel Management System\obj\Debug\Hotel_Management_System.AddEmployee.resources
+F:\Database Project\Hotel Management System\Hotel Management System\obj\Debug\Hotel_Management_System.AddRoom.resources
+F:\Database Project\Hotel Management System\Hotel Management System\obj\Debug\Hotel_Management_System.CheckOut.resources
